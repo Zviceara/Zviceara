@@ -8,13 +8,11 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with java project
 - 📫 Contatos por email:zviceara@gmail.com
-- ##
-<div>
-  <a href="https://github.com/denisilvace"> 
-<img height="42%" src="https://github-readme-stats.vercel.app/api?username=denisilvace&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="50%
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisilvace&layout=compact&langs_count=16&theme=dark"/>
-</div>
+  
+<a href="https://github.com/Zviceara">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zviceara&theme=dark" alt="GitHub Streak" />
+</a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Denis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +23,8 @@
   <img align="center" alt="Denis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+##
 
 <div>
   <a href="https://www.youtube.com/@andreeustaquio3109" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
